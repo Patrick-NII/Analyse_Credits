@@ -1,5 +1,3 @@
-# "Home Loan"
-
 Ce dataset contient des informations sur les prêts immobiliers, comprenant les détails des emprunteurs et les caractéristiques des prêts.
 
 ## Contenu
