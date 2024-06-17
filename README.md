@@ -1,3 +1,4 @@
+
 # Analyse de Crédits Immobiliers
 
 Ce projet vise à prédire si un client est en capacité de contracter un prêt immobilier en utilisant un ensemble de données divisé en deux parties : `test.csv et train.csv`. Le dataset est pertinent pour analyser les facteurs influençant l'approbation des prêts hypothécaires, modéliser le risque de crédit et développer des stratégies de prêt plus efficaces. Le projet comprend l'analyse exploratoire des données, la gestion des outliers, la visualisation des taux de prêt, l'analyse de corrélation, ainsi que le déploiement de l'application de prédiction avec Streamlit et la création d'un tableau de bord interactif avec Power BI.
@@ -95,3 +96,4 @@ Ce projet combine des techniques d'analyse de données, de visualisation et de m
 Pour toute question ou suggestion, n'hésitez pas à me contacter. 
 
 ---
+
