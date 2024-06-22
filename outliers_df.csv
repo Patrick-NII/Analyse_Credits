@@ -1,0 +1,219 @@
+Gender,Married,Dependents,Education,Self_Employed,ApplicantIncome,CoapplicantIncome,LoanAmount,Loan_Amount_Term,Credit_History,Property_Area,Loan_Status
+Homme,Marié,1,Qualifié,Employé en CDI,12841,10968.0,349.0,360.0,1.0,Semi-urbain,Rejeté
+Homme,Célibataire,3 ou +,Qualifié,Employé en CDI,12500,3000.0,320.0,360.0,1.0,Rural,Rejeté
+Femme,Marié,1,Qualifié,Entrepreneur,11500,0.0,286.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,1,Qualifié,Employé en CDI,10750,0.0,312.0,360.0,1.0,Urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,13650,0.0,128.0,360.0,1.0,Urbain,Accepté
+Homme,Marié,2,Qualifié,Employé en CDI,11417,1126.0,225.0,360.0,1.0,Urbain,Accepté
+Homme,Marié,1,Qualifié,Employé en CDI,14583,0.0,185.0,180.0,1.0,Rural,Accepté
+Femme,Célibataire,0,Qualifié,Employé en CDI,10408,0.0,259.0,360.0,1.0,Urbain,Accepté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,23803,0.0,370.0,360.0,1.0,Rural,Accepté
+Homme,Marié,1,Qualifié,Entrepreneur,10513,3850.0,160.0,180.0,0.0,Urbain,Rejeté
+Homme,Célibataire,0,Qualifié,Entrepreneur,20166,0.0,650.0,480.0,1.0,Urbain,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,14999,0.0,242.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,2,Qualifié,Employé en CDI,11757,0.0,187.0,180.0,1.0,Urbain,Accepté
+Femme,Marié,2,Qualifié,Employé en CDI,14866,0.0,70.0,360.0,1.0,Urbain,Accepté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,39999,0.0,600.0,180.0,0.0,Semi-urbain,Accepté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,51763,0.0,700.0,300.0,1.0,Urbain,Accepté
+Homme,Marié,1,Qualifié,Employé en CDI,33846,0.0,260.0,360.0,1.0,Semi-urbain,Rejeté
+Homme,Marié,0,Qualifié,Entrepreneur,39147,4750.0,120.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,12000,0.0,164.0,360.0,1.0,Semi-urbain,Rejeté
+Homme,Célibataire,0,Qualifié,Entrepreneur,11000,0.0,83.0,360.0,1.0,Urbain,Rejeté
+Homme,Célibataire,0,Qualifié,Entrepreneur,16250,0.0,192.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,14683,2100.0,304.0,360.0,1.0,Rural,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,11146,0.0,136.0,360.0,1.0,Urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,14583,0.0,436.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,20667,0.0,128.0,360.0,1.0,Rural,Rejeté
+Homme,Célibataire,0,Qualifié,Employé en CDI,20233,0.0,480.0,360.0,1.0,Rural,Rejeté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,15000,0.0,300.0,360.0,1.0,Rural,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,63337,0.0,490.0,180.0,1.0,Urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,19730,5266.0,570.0,360.0,1.0,Rural,Rejeté
+Femme,Célibataire,0,Qualifié,Entrepreneur,15759,0.0,55.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,81000,0.0,360.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,14880,0.0,96.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,12876,0.0,405.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Célibataire,0,Qualifié,Entrepreneur,10416,0.0,187.0,360.0,0.0,Urbain,Rejeté
+Homme,Célibataire,1,Qualifié,Employé en CDI,37719,0.0,152.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,16692,0.0,110.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,2,Qualifié,Entrepreneur,16525,1014.0,150.0,360.0,1.0,Rural,Accepté
+Homme,Marié,1,Qualifié,Entrepreneur,16667,2250.0,86.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,10833,0.0,234.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,1,Qualifié,Employé en CDI,18333,0.0,500.0,360.0,1.0,Urbain,Rejeté
+Femme,Célibataire,0,Non qualifié,Entrepreneur,17263,0.0,225.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,20833,6667.0,480.0,360.0,1.0,Urbain,Accepté
+Femme,Célibataire,1,Qualifié,Employé en CDI,13262,0.0,40.0,360.0,1.0,Urbain,Accepté
+Homme,Marié,2,Qualifié,Entrepreneur,17500,0.0,400.0,360.0,1.0,Rural,Accepté
+Homme,Célibataire,1,Qualifié,Employé en CDI,11250,0.0,196.0,360.0,1.0,Semi-urbain,Rejeté
+Femme,Célibataire,0,Non qualifié,Entrepreneur,18165,0.0,125.0,360.0,1.0,Urbain,Accepté
+Femme,Marié,1,Qualifié,Entrepreneur,19484,0.0,600.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,2,Qualifié,Employé en CDI,16666,0.0,275.0,360.0,1.0,Urbain,Accepté
+Homme,Marié,0,Qualifié,Entrepreneur,16120,0.0,260.0,360.0,1.0,Urbain,Accepté
+Femme,Marié,1,Qualifié,Employé en CDI,12000,0.0,496.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,2,Qualifié,Employé en CDI,3073,8106.0,200.0,360.0,1.0,Urbain,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,4166,7210.0,184.0,360.0,1.0,Urbain,Accepté
+Femme,Célibataire,0,Qualifié,Employé en CDI,2137,8980.0,137.0,360.0,0.0,Semi-urbain,Accepté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,4000,7750.0,290.0,360.0,1.0,Semi-urbain,Rejeté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,5516,11300.0,495.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,1,Qualifié,Employé en CDI,6400,7250.0,180.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,1,Non qualifié,Employé en CDI,2661,7101.0,279.0,180.0,1.0,Semi-urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,2625,6250.0,187.0,360.0,1.0,Rural,Accepté
+Homme,Marié,2,Qualifié,Entrepreneur,9323,7873.0,380.0,300.0,1.0,Rural,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,2500,20000.0,103.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,2,Qualifié,Entrepreneur,1600,20000.0,239.0,360.0,1.0,Urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,7333,8333.0,175.0,300.0,1.0,Rural,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,2130,6666.0,70.0,180.0,1.0,Semi-urbain,Rejeté
+Homme,Marié,2,Qualifié,Entrepreneur,7948,7166.0,480.0,360.0,1.0,Rural,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,1836,33837.0,90.0,360.0,1.0,Urbain,Rejeté
+Femme,Célibataire,3 ou +,Qualifié,Employé en CDI,416,41667.0,350.0,180.0,1.0,Urbain,Rejeté
+Homme,Marié,2,Qualifié,Entrepreneur,5417,4196.0,267.0,360.0,1.0,Urbain,Accepté
+Homme,Marié,1,Qualifié,Employé en CDI,5955,5625.0,315.0,360.0,1.0,Urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,6000,2250.0,265.0,360.0,1.0,Semi-urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,7933,0.0,275.0,360.0,1.0,Urbain,Rejeté
+Femme,Célibataire,0,Qualifié,Employé en CDI,8333,0.0,280.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,1,Qualifié,Employé en CDI,6083,4250.0,330.0,360.0,1.0,Urbain,Accepté
+Homme,Marié,1,Qualifié,Entrepreneur,8666,4983.0,376.0,360.0,0.0,Rural,Rejeté
+Homme,Célibataire,0,Qualifié,Employé en CDI,8750,4167.0,308.0,360.0,1.0,Rural,Rejeté
+Homme,Célibataire,0,Qualifié,Employé en CDI,5941,4232.0,296.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,9504,0.0,275.0,360.0,1.0,Rural,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,5815,3666.0,311.0,360.0,1.0,Rural,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,6133,3906.0,324.0,360.0,1.0,Urbain,Accepté
+Homme,Célibataire,3 ou +,Qualifié,Entrepreneur,9357,0.0,292.0,360.0,1.0,Semi-urbain,Accepté
+Homme,Marié,2,Qualifié,Employé en CDI,1299,1086.0,17.0,120.0,1.0,Urbain,Accepté
+Homme,Célibataire,1,Non qualifié,Employé en CDI,3596,0.0,100.0,240.0,1.0,Urbain,Accepté
+Homme,Marié,0,Non qualifié,Entrepreneur,2609,3449.0,165.0,180.0,0.0,Rural,Rejeté
+Homme,Célibataire,0,Non qualifié,Employé en CDI,3200,2254.0,126.0,180.0,0.0,Urbain,Rejeté
+Homme,Marié,3 ou +,Non qualifié,Entrepreneur,7100,0.0,125.0,60.0,1.0,Urbain,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,3500,0.0,81.0,300.0,1.0,Semi-urbain,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,3750,0.0,113.0,480.0,1.0,Urbain,Rejeté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,3167,4000.0,180.0,300.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,1,Qualifié,Employé en CDI,3988,0.0,50.0,240.0,1.0,Urbain,Accepté
+Homme,Marié,2,Qualifié,Employé en CDI,6250,5654.0,188.0,180.0,1.0,Semi-urbain,Accepté
+Homme,Célibataire,0,Non qualifié,Employé en CDI,3620,0.0,25.0,120.0,1.0,Semi-urbain,Accepté
+Homme,Marié,0,Non qualifié,Employé en CDI,4188,0.0,115.0,180.0,1.0,Semi-urbain,Accepté
+Homme,Marié,2,Non qualifié,Employé en CDI,4288,3263.0,133.0,180.0,1.0,Urbain,Accepté
+Homme,Marié,3 ou +,Non qualifié,Employé en CDI,2071,754.0,94.0,480.0,1.0,Semi-urbain,Accepté
+Homme,Marié,0,Qualifié,Entrepreneur,3459,0.0,25.0,120.0,1.0,Semi-urbain,Accepté
+Homme,Célibataire,0,Qualifié,Entrepreneur,6950,0.0,175.0,180.0,1.0,Semi-urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,9323,0.0,75.0,180.0,1.0,Urbain,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,2237,0.0,63.0,480.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,3 ou +,Non qualifié,Employé en CDI,3522,0.0,81.0,180.0,1.0,Rural,Rejeté
+Homme,Célibataire,0,Non qualifié,Employé en CDI,2333,1451.0,102.0,480.0,0.0,Urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,4600,0.0,73.0,180.0,1.0,Semi-urbain,Accepté
+Homme,Marié,1,Qualifié,Entrepreneur,2178,0.0,66.0,300.0,0.0,Rural,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,9328,0.0,188.0,180.0,1.0,Rural,Accepté
+Homme,Marié,3 ou +,Non qualifié,Employé en CDI,3992,0.0,128.0,180.0,1.0,Urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,4758,0.0,158.0,480.0,1.0,Semi-urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,3716,0.0,42.0,180.0,1.0,Rural,Accepté
+Homme,Marié,1,Non qualifié,Employé en CDI,2510,1983.0,140.0,180.0,1.0,Urbain,Rejeté
+Homme,Célibataire,0,Qualifié,Employé en CDI,2965,5701.0,155.0,60.0,1.0,Urbain,Accepté
+Homme,Célibataire,0,Qualifié,Entrepreneur,6050,4333.0,120.0,180.0,1.0,Urbain,Rejeté
+Homme,Marié,1,Non qualifié,Employé en CDI,6608,0.0,137.0,180.0,1.0,Urbain,Accepté
+Homme,Marié,1,Qualifié,Employé en CDI,2882,1843.0,123.0,480.0,1.0,Semi-urbain,Accepté
+Femme,Célibataire,1,Qualifié,Employé en CDI,3481,0.0,155.0,36.0,1.0,Semi-urbain,Rejeté
+Homme,Marié,2,Qualifié,Employé en CDI,2301,985.7999878,78.0,180.0,1.0,Urbain,Accepté
+Femme,Célibataire,0,Qualifié,Entrepreneur,2600,1717.0,99.0,300.0,1.0,Semi-urbain,Rejeté
+Femme,Célibataire,0,Qualifié,Employé en CDI,5417,0.0,143.0,480.0,0.0,Urbain,Rejeté
+Femme,Célibataire,0,Qualifié,Employé en CDI,5000,2541.0,151.0,480.0,1.0,Rural,Rejeté
+Homme,Marié,2,Qualifié,Entrepreneur,5746,0.0,144.0,84.0,1.0,Rural,Accepté
+Homme,Marié,1,Non qualifié,Employé en CDI,3399,1640.0,111.0,180.0,1.0,Urbain,Accepté
+Homme,Marié,1,Qualifié,Entrepreneur,9833,1833.0,182.0,180.0,1.0,Urbain,Accepté
+Femme,Célibataire,0,Qualifié,Employé en CDI,3813,0.0,116.0,180.0,1.0,Urbain,Accepté
+Homme,Marié,0,Non qualifié,Employé en CDI,3000,1666.0,100.0,480.0,0.0,Urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,3013,3033.0,95.0,300.0,1.0,Urbain,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,2500,0.0,96.0,480.0,1.0,Semi-urbain,Rejeté
+Homme,Célibataire,1,Qualifié,Employé en CDI,3062,1987.0,111.0,180.0,0.0,Urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,4817,923.0,120.0,180.0,1.0,Urbain,Accepté
+Homme,Célibataire,0,Qualifié,Employé en CDI,3069,0.0,71.0,480.0,1.0,Urbain,Rejeté
+Homme,Célibataire,1,Qualifié,Employé en CDI,3667,0.0,113.0,180.0,1.0,Urbain,Accepté
+Homme,Marié,2,Non qualifié,Employé en CDI,1993,1625.0,113.0,180.0,1.0,Semi-urbain,Accepté
+Homme,Marié,2,Non qualifié,Employé en CDI,2889,0.0,45.0,180.0,0.0,Urbain,Rejeté
+Homme,Célibataire,0,Non qualifié,Employé en CDI,2755,0.0,65.0,300.0,1.0,Rural,Rejeté
+Homme,Marié,1,Qualifié,Employé en CDI,8300,0.0,152.0,300.0,0.0,Semi-urbain,Rejeté
+Homme,Célibataire,0,Non qualifié,Employé en CDI,2717,0.0,60.0,180.0,1.0,Urbain,Accepté
+Femme,Marié,0,Qualifié,Employé en CDI,10047,0.0,128.0,240.0,1.0,Semi-urbain,Accepté
+Homme,Marié,2,Non qualifié,Employé en CDI,1958,1456.0,60.0,300.0,1.0,Urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,2483,2466.0,90.0,180.0,0.0,Rural,Accepté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,7740,0.0,128.0,180.0,1.0,Urbain,Accepté
+Homme,Marié,3 ou +,Non qualifié,Employé en CDI,2947,1664.0,70.0,180.0,0.0,Urbain,Rejeté
+Homme,Marié,1,Non qualifié,Employé en CDI,2653,1500.0,113.0,180.0,0.0,Rural,Rejeté
+Homme,Marié,2,Qualifié,Employé en CDI,6700,1750.0,230.0,300.0,1.0,Semi-urbain,Accepté
+Femme,Marié,1,Qualifié,Employé en CDI,3326,913.0,105.0,84.0,1.0,Semi-urbain,Accepté
+Homme,Marié,0,Qualifié,Employé en CDI,4625,2857.0,111.0,12.0,1.0,Urbain,Accepté
+Femme,Célibataire,0,Qualifié,Employé en CDI,645,3683.0,113.0,480.0,1.0,Rural,Accepté
+Homme,Marié,0,Non qualifié,Employé en CDI,3814,1483.0,124.0,300.0,1.0,Semi-urbain,Accepté
+Femme,Marié,2,Qualifié,Employé en CDI,2031,1632.0,113.0,480.0,1.0,Semi-urbain,Accepté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,6417,0.0,157.0,180.0,1.0,Rural,Accepté
+Femme,Marié,1,Qualifié,Employé en CDI,4608,2845.0,140.0,180.0,1.0,Semi-urbain,Accepté
+Homme,Célibataire,0,Non qualifié,Employé en CDI,3358,0.0,80.0,36.0,1.0,Semi-urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,3593,4266.0,132.0,180.0,0.0,Rural,Rejeté
+Homme,Marié,2,Non qualifié,Employé en CDI,6125,1625.0,187.0,480.0,1.0,Semi-urbain,Rejeté
+Homme,Marié,2,Qualifié,Employé en CDI,3159,461.0,108.0,84.0,1.0,Urbain,Accepté
+Homme,Marié,1,Qualifié,Employé en CDI,4283,3000.0,172.0,84.0,1.0,Rural,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,3000,3416.0,56.0,180.0,1.0,Semi-urbain,Accepté
+Homme,Marié,2,Qualifié,Entrepreneur,6000,0.0,205.0,240.0,1.0,Semi-urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,3859,3300.0,142.0,180.0,1.0,Rural,Accepté
+Homme,Marié,0,Non qualifié,Employé en CDI,2400,3800.0,128.0,180.0,1.0,Urbain,Rejeté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,4106,0.0,40.0,180.0,1.0,Rural,Accepté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,3036,2504.0,158.0,360.0,0.0,Semi-urbain,Rejeté
+Femme,Célibataire,0,Qualifié,Employé en CDI,3510,0.0,76.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,0,Non qualifié,Employé en CDI,7660,0.0,104.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,0,Non qualifié,Employé en CDI,2600,1911.0,116.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,2,Non qualifié,Employé en CDI,3365,1917.0,112.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,1828,1330.0,100.0,360.0,0.0,Urbain,Rejeté
+Femme,Marié,0,Qualifié,Employé en CDI,2645,3440.0,120.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,1,Qualifié,Employé en CDI,4945,0.0,128.0,360.0,0.0,Rural,Rejeté
+Femme,Célibataire,0,Qualifié,Employé en CDI,4166,0.0,116.0,360.0,0.0,Semi-urbain,Rejeté
+Femme,Célibataire,0,Qualifié,Employé en CDI,4300,0.0,136.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,3 ou +,Non qualifié,Employé en CDI,4755,0.0,95.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,2,Qualifié,Employé en CDI,3800,3600.0,216.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,0,Non qualifié,Employé en CDI,3572,4114.0,152.0,360.0,0.0,Rural,Rejeté
+Homme,Célibataire,0,Qualifié,Employé en CDI,6277,0.0,118.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,1,Qualifié,Employé en CDI,3089,1280.0,121.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Célibataire,2,Qualifié,Employé en CDI,4923,0.0,166.0,360.0,0.0,Semi-urbain,Accepté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,3430,1250.0,128.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,2,Qualifié,Employé en CDI,5000,0.0,72.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,2221,0.0,60.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,0,Non qualifié,Employé en CDI,1668,3890.0,201.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Célibataire,0,Non qualifié,Employé en CDI,6045,0.0,115.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,4333,1811.0,160.0,360.0,0.0,Urbain,Accepté
+Homme,Célibataire,1,Non qualifié,Entrepreneur,4053,2426.0,158.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,2,Qualifié,Employé en CDI,4400,0.0,127.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,0,Non qualifié,Employé en CDI,1800,2934.0,93.0,360.0,0.0,Urbain,Rejeté
+Femme,Célibataire,0,Qualifié,Employé en CDI,2400,1863.0,104.0,360.0,0.0,Urbain,Rejeté
+Homme,Célibataire,0,Qualifié,Employé en CDI,4917,0.0,130.0,360.0,0.0,Rural,Accepté
+Femme,Célibataire,3 ou +,Non qualifié,Employé en CDI,1830,0.0,128.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,0,Non qualifié,Employé en CDI,3523,3230.0,152.0,360.0,0.0,Rural,Rejeté
+Femme,Marié,0,Qualifié,Entrepreneur,5500,0.0,105.0,360.0,0.0,Rural,Rejeté
+Homme,Célibataire,0,Qualifié,Employé en CDI,5124,0.0,124.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,0,Non qualifié,Employé en CDI,3010,3136.0,128.0,360.0,0.0,Urbain,Rejeté
+Femme,Célibataire,0,Qualifié,Employé en CDI,3180,0.0,71.0,360.0,0.0,Urbain,Rejeté
+Femme,Célibataire,0,Qualifié,Employé en CDI,1500,1800.0,103.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,0,Non qualifié,Employé en CDI,6096,0.0,218.0,360.0,0.0,Rural,Rejeté
+Femme,Marié,0,Non qualifié,Employé en CDI,2149,3237.0,178.0,360.0,0.0,Semi-urbain,Rejeté
+Femme,Célibataire,0,Non qualifié,Employé en CDI,2720,0.0,80.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,1,Qualifié,Employé en CDI,7250,1667.0,110.0,360.0,0.0,Urbain,Rejeté
+Homme,Célibataire,0,Qualifié,Employé en CDI,6500,0.0,105.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,2,Qualifié,Employé en CDI,3340,1710.0,150.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,2,Non qualifié,Employé en CDI,2309,1255.0,125.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,3948,1733.0,149.0,360.0,0.0,Rural,Rejeté
+Homme,Célibataire,0,Qualifié,Employé en CDI,4166,0.0,98.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,2,Qualifié,Employé en CDI,2873,1872.0,132.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Célibataire,2,Qualifié,Employé en CDI,3547,0.0,80.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,3597,2157.0,119.0,360.0,0.0,Rural,Rejeté
+Homme,Célibataire,0,Qualifié,Employé en CDI,6283,4416.0,209.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,0,Non qualifié,Employé en CDI,3074,1800.0,123.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,1,Non qualifié,Employé en CDI,5285,1430.0,161.0,360.0,0.0,Semi-urbain,Accepté
+Homme,Célibataire,2,Qualifié,Employé en CDI,3588,0.0,110.0,360.0,0.0,Rural,Rejeté
+Femme,Célibataire,0,Qualifié,Employé en CDI,2138,0.0,99.0,360.0,0.0,Semi-urbain,Rejeté
+Femme,Célibataire,0,Qualifié,Employé en CDI,5000,0.0,103.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,2,Qualifié,Entrepreneur,6633,0.0,128.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,0,Non qualifié,Employé en CDI,2454,2333.0,181.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,2,Qualifié,Employé en CDI,8799,0.0,258.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,3 ou +,Qualifié,Employé en CDI,3400,2500.0,123.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,3166,2064.0,104.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,5116,1451.0,165.0,360.0,0.0,Urbain,Rejeté
+Homme,Marié,0,Qualifié,Employé en CDI,3087,2210.0,136.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Marié,1,Qualifié,Employé en CDI,2787,1917.0,146.0,360.0,0.0,Rural,Rejeté
+Homme,Marié,2,Qualifié,Entrepreneur,2726,0.0,106.0,360.0,0.0,Semi-urbain,Rejeté
+Homme,Célibataire,0,Qualifié,Employé en CDI,2987,0.0,88.0,360.0,0.0,Semi-urbain,Rejeté
+Femme,Célibataire,0,Qualifié,Entrepreneur,4583,0.0,133.0,360.0,0.0,Semi-urbain,Rejeté
